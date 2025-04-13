@@ -1,9 +1,3 @@
-/*
-		Ali Akbar 23i-0697
-		Rehan Ali 23i-0730
-		Ahmad Kamran 23i-0622
-*/
-
 
 #include<iostream>
 #include<fstream>
